@@ -1,0 +1,4 @@
+ID Description Quantity Manufacturer Barcode ProductType Status
+1 Milk 10 Dairy 1234567890 0 0
+2 Bread 20 Bakery 1234567891 0 0
+3 Apple 15 Fruit 1234567892 0 0
